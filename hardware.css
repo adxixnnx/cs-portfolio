@@ -1,0 +1,18 @@
+.h1div {
+    border: 8px dotted #004080;
+
+}
+ html {
+    font-family: Oswald;
+     background-color: #0073e6;
+     
+ }
+ 
+ .h2div {
+     border: 7px solid #004080;
+ }
+ 
+ .fam {
+    width: 600px;
+    height: 300px;
+}
