@@ -14,10 +14,15 @@
  
  .fam {
     width: 600px;
-    height: 300px;
+    float: left;
+    /*height: 300px;*/
 }
 
 .h3div {
  border: 7px solid #004080;
+}
 
+#right {
+ width:700px;
+ float: right;
 }

@@ -1,7 +1,6 @@
 #navbar {
     background-color: #13060d;
     text-align:center;
-
 }
 
 
@@ -11,6 +10,11 @@
     font-size: 20px;
     border:2px #cc6699;
     background-color: white;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: #00001a;
 }
 
 html {
