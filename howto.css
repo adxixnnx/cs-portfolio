@@ -3,8 +3,8 @@
 }
 
 html {
-    border: 6px ridge #330009;
-     background-color: #4e1835;
+    border: 6px dotted #800000;
+     background-color: #AC0000;
      font-family: Oswald;
      
      
@@ -14,7 +14,8 @@ html {
     width: 600px;
     height: 300px;
 }
- 
+
+
 #navbar {
     background-color: #13060d;
     text-align:center;

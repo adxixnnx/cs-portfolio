@@ -26,3 +26,22 @@
  width:700px;
  float: right;
 }
+
+#navbar {
+    background-color: #13060d;
+    text-align:center;
+}
+
+
+#navbar li { 
+    display: inline-block;
+    padding:10px;
+    font-size: 20px;
+    border:2px #cc6699;
+    background-color: white;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: #00001a;
+}
