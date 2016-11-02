@@ -1,9 +1,10 @@
 .h1div {
     text-align: center;
+    border: 6px dotted #800000;
 }
 
 html {
-    border: 6px dotted #800000;
+    
      background-color: #AC0000;
      font-family: Oswald;
      
@@ -33,4 +34,14 @@ html {
 #navbar a {
     text-decoration: none;
     color: #00001a;
+}
+
+#left{
+    float: left;
+    width: 50%;
+}
+
+#right{
+    float: right;
+    width: 50%;
 }
