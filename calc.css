@@ -1,13 +1,12 @@
 .h1div {
     text-align: center;
+    
 }
 
 html {
-    border: 6px ridge #330009;
+    border: 6px dotted #e6e6ff;
      background-color:   #DC143C;
      font-family: Oswald ;
-     
-     
      
 }
 .fam {

@@ -1,11 +1,11 @@
 .h1div {
     text-align: center;
-    border: 6px dotted #800000;
+    border: 6px dotted #e6e6ff;
 }
 
 html {
     
-     background-color: #AC0000;
+     background-color: #6666ff;
      font-family: Oswald;
      
      
@@ -38,10 +38,14 @@ html {
 
 #left{
     float: left;
-    width: 50%;
+    width: 68%;
+     border:2px  #000033 double;
+    
 }
 
 #right{
     float: right;
-    width: 50%;
+    width: 30%;
+    border:2px #000033 double;
+    
 }

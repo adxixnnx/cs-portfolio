@@ -1,5 +1,7 @@
 .h1div {
     text-align: center;
+     border: 6px dotted #e6e6ff;
+    
 }
 
 html {
