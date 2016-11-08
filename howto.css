@@ -49,3 +49,9 @@ html {
     border:2px #000033 double;
     
 }
+
+.howtopics{
+    width:1000px;
+    height: 400px;
+    float: center;
+}

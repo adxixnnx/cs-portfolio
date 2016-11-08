@@ -11,7 +11,7 @@ button.addEventListener("click", function (){
 
     if (operator ===  "+") {
         
-        answer.innerHTML = number + numberdos;
+        answer.innerHTML = Number(number) + Number(numberdos);
     }
    
 })

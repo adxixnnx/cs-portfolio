@@ -4,12 +4,12 @@
 }
  html {
     font-family: Oswald;
-     background-color: #0073e6;
+     background-color: #993333;
      
  }
  
  .h2div {
-     border: 7px solid #004080;
+     border: 7px solid #133926;
  }
  
  .fam {
@@ -19,7 +19,7 @@
 }
 
 .h3div {
- border: 7px solid #004080;
+ border: 7px solid #133926;
 }
 
 #right {
@@ -28,7 +28,7 @@
 }
 
 #navbar {
-    background-color: #13060d;
+    background-color: #000000;
     text-align:center;
 }
 
